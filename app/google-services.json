@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791413041850",
+    "project_id": "feroj-service",
+    "storage_bucket": "feroj-service.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791413041850:android:aed6140f2f1f847a78b083",
+        "android_client_info": {
+          "package_name": "feroj.service"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuaIWj-iSxnv0yLzjQTRUwvzj0Pxl3TLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
